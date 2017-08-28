@@ -1,0 +1,10 @@
+body{
+  background-color: lightblue;
+}
+
+p, ul{
+  color: purple;
+}
+img{
+  height: 300px;
+}
