@@ -12,8 +12,19 @@ ul{
 
 img{
   height: 300px;
+  padding: 0px;
+  border: 15px solid navy;
+}
+
+img.donate{
+  height: 1px;
+  width: 1px;
+  border: 0px;
 }
 
 h1, h2, h3, h4, h5, h6{
-  color: yellow;
+  color: black;
+  font-size: 150%;
+  border: 4px solid #22DD22;
+  display:inline;
 }
